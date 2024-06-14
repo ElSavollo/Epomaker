@@ -190,3 +190,9 @@
         position: static;
     }
 }
+
+@media (max-width: 390px) {
+    .footer__paragraph_middle{
+        display: none;
+    }
+}
